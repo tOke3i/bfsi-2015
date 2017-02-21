@@ -1,0 +1,1167 @@
+@media  screen and (max-width: 800px) {
+.leftMenuSub ul {display: none !important;}
+.sliderImgWrap{
+    display: none !important;
+}
+.sliderRightMenuWrap{
+    position: relative !important;
+    width: 100% !important;
+
+}
+.leftMenu{
+    width: 100% !important;
+    font-size: 20px;
+}
+.leftMenuA{
+    width: 100% !important;
+    font-size: 30px !important;
+    margin-left: 37px !important;
+    color: #fff !important;
+    text-shadow: none !important;
+}
+.leftMenu img {
+    float: left;
+    margin-top: 0px !important;
+    margin-right: -10px !important;
+    margin-bottom: 0px !important;
+    margin-left: -5px !important;
+    width: 45px !important;
+}
+.leftMenuSubA {
+    color: #fff !important;
+    text-decoration: none !important;
+    margin-left: 50px !important;
+    font-size: 25px !important;
+}
+.leftMenuLi_down {
+    margin-bottom: 25px !important;
+}
+.sliderContent {
+    height: auto !important;
+    width: 100% !important;
+}
+
+.logo{
+    margin: auto !important;
+    float: none !important;
+}
+.contentLeft,.contentRight {
+    float: none !important;
+    margin: auto !important;
+    width: 90%;
+    word-break: break-word;
+    padding: 20px;
+}
+.content {
+    max-width: 100% !important;
+    margin: 20px auto 35px !important;
+    padding: 25px !important;
+}
+.header{
+    min-width: 100% !important;
+}
+.pageKupit {
+    margin: 10px auto 25px !important;
+    float: none !important;
+    margin: 10px auto !important;
+    float: none !important;
+    width: 70% !important;
+    height: 70% !important;
+    background: #868282 !important;
+    color: #fff !important;
+    border-radius: 8px;
+    font-size: 20px !important;
+    line-height: 35px !important;
+    background-image: none !important;
+}
+
+
+.footerMenu {
+    float: none !important;
+}
+
+
+.menuA{
+    font-size: 19px !important;
+}
+.headerPhoneItem {
+    float: left!important;
+    min-width: 145px !important;
+
+}
+.headerPhoneBlock{
+    display: inline-block !important;
+}
+
+.headerPhoneBlock p{
+    min-width: 175px !important;
+    margin: 10px 10px 10px 0px !important;
+}
+.menuSearch{
+    margin: 18px 40px 18px 18px !important;
+    min-height: 95px !important;
+    float: left !important;
+    width: 100% !important;
+    display: inline-block !important;
+}
+
+.headerIco {
+    float: left !important;
+    margin: 40px 0 0 40px !important;
+}
+.contentMenu {
+    width: 100% !important;
+    margin: 30px auto !important;
+    height: 90px !important;
+}
+
+.leftMenuSub {
+
+    margin-bottom: 30px !important;
+}
+.leftMenuSubLi {
+    margin: 0 0 20px 0 !important;
+    }
+    .sliderMenu p {
+
+    font-size: 22px !important;
+    text-shadow: none !important;
+    line-height: 26px !important;
+
+}
+
+.sliderMenu li {
+    width: 190px !important;
+    height: 82px !important;
+    margin: 1% 12% !important;
+    width: 180px !important;
+}
+.ulSliderMenu{
+    width: 80% !important;
+    margin: auto !important;
+}
+.menuBlock {
+
+    min-height: 140px !important;
+
+}
+.leftMenuLi {
+    margin-bottom: 20px !important;
+}
+    .inputSearch{
+        font-size: 20px !important;
+    }
+    .sliderMenu a {
+    width: 225px !important;
+    height: 100% !important;
+    display: inline-block;
+    width: 100% !important;
+}
+.sliderRightMenuWrap {
+
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+
+}
+.contentLeftText li {
+    list-style: disc !important;
+    margin-bottom: 15px !important;
+    margin-top: 15px !important;
+}
+.leftMenuSub {
+
+    margin-left: 30px !important;
+    margin-top: 25px !important;
+}
+.sliderMenu ul {
+    max-width: 100% !important;
+    margin: auto !important;
+}
+.headerMiniLogo {
+     float: none;
+     display: inline-block !important;
+}
+.sliderMenu img {
+    border: none !important;
+    width: 100%  !important;
+}
+
+.headerPhoneItem sup {
+    font-size: 18px !important;
+    vertical-align: baseline !important;
+}
+.headerMiniLogo,.headerIco{
+    display: none !important;
+}
+.headerContent{
+    max-width: 60% !important;
+    min-height: 155px !important;
+
+}
+.headerPhoneHr {
+    background: none  !important;
+}
+
+.sub {
+    margin-bottom: 25px !important;
+}
+.inputSearch {
+    width: 278px !important;
+    height: 30px !important;
+}
+.menuSearch {
+    float: right !important;
+    width: 286px !important;
+    height: 126px !important;
+}
+.inputSearch {
+    font-size: 30px !important;
+}
+.inputSearchSubm {
+    top: 8px !important;
+    width: 27px !important;
+    height: 27px !important;
+    }
+    .feedForm {
+    width: 400px !important;
+}
+.feedFormContent {
+    width: 400px !important;
+    }
+    .inputStyle {
+    width: 350px !important;
+}
+.feedTextArea {
+    float: none !important;
+    width: 460px !important;
+    }
+    .inputTextArea {
+       float: none !important;
+}
+.feedCapchBlock {
+    margin: 10px 0 20px 25px;
+    width: 432px;
+}
+.contentRight{
+    width: 40% !important;
+}
+.menuHr {
+    background: none !important;
+}
+.wrapper_items_top{
+    display: inline-block !important;
+}
+.contentLeftText table {
+
+    width: 351px !important;
+    }
+    #footer{
+    background-image: none !important;
+    background-color: #868282 !important;
+    min-height: 150px !important;
+    position: static !important;
+}
+.footerContent{
+   min-height: 150px !important;
+   padding-top: 20px !important;
+}
+.footerContentText {
+    float: none !important;
+    width: 100% !important;
+    margin: 10px !important;
+}
+.footerMenu li{
+    margin:10px !important;
+}
+.footerContentText p{
+    font-size: 16px !important;
+     color: #fff !important;
+     line-height: 20px !important;
+     margin: 5px !important;
+}
+.footerMenu li a {
+
+    font-size: 18px !important;
+    color: #fff !important;
+}
+}
+/*800PX ENDS*/
+
+/*RESPONSIVE 1024PX MOBILE STARTS*/
+
+
+@media  screen and (max-width: 768px) {
+.sliderImgWrap{
+    display: none !important;
+}
+.sliderRightMenuWrap{
+    position: relative !important;
+    width: 100% !important;
+
+}
+.leftMenu{
+    width: 100% !important;
+    font-size: 20px;
+}
+.leftMenuA{
+    width: 100% !important;
+    font-size: 25px !important;
+    margin-left: 37px !important;
+    color: #fff !important;
+    text-shadow: none !important;
+}
+.leftMenu img {
+    float: left;
+    margin-top: 0px !important;
+    margin-right: -10px !important;
+    margin-bottom: 0px !important;
+    margin-left: -5px !important;
+    width: 30px !important;
+}
+.leftMenuSubA {
+    color: #fff !important;
+    text-decoration: none !important;
+    margin-left: 17px !important;
+    font-size: 25px !important;
+}
+.leftMenuLi_down {
+    margin-bottom: 25px !important;
+}
+.sliderContent {
+    height: auto !important;
+    width: 100% !important;
+}
+
+.logo{
+    margin: auto !important;
+    float: none !important;
+}
+.contentLeft,.contentRight {
+    margin: auto !important;
+    width: 90%;
+    word-break: break-word;
+    padding: 20px;
+    float: none !important;
+}
+.content {
+    max-width: 100% !important;
+    margin: 20px auto 0px !important;
+    padding: 25px !important;
+}
+.header{
+    min-width: 100% !important;
+}
+.pageKupit {
+    margin: 10px auto 25px !important;
+    float: none !important;
+    margin: 10px auto !important;
+    float: none !important;
+    width: 70% !important;
+    height: 70% !important;
+    background: #868282 !important;
+    color: #fff !important;
+    border-radius: 8px;
+    font-size: 17px !important;
+    line-height: 29px !important;
+    background-image: none !important;
+    padding: 6px;
+}
+
+
+.footerMenu {
+    float: none !important;
+}
+
+
+.menuA{
+    font-size: 22px !important;
+}
+.headerPhoneItem {
+    float: left!important;
+    min-width: 145px !important;
+
+}
+.headerPhoneBlock{
+    display: inline-block !important;
+    max-width: 100% !important;
+    padding-left: 5% !important;
+}
+
+.headerPhoneBlock p{
+    min-width: 175px !important;
+    margin: 10px 10px 10px 0px !important;
+}
+.menuSearch{
+    margin: 18px 40px 18px 18px !important;
+    min-height: 95px !important;
+    float: left !important;
+    width: 100% !important;
+    display: inline-block !important;
+}
+
+.headerIco {
+    float: left !important;
+    margin: 40px 0 0 40px !important;
+}
+.contentMenu {
+    width: 100% !important;
+    margin: 30px auto !important;
+    height: 90px !important;
+}
+
+.leftMenuSub {
+
+    margin-bottom: 30px !important;
+}
+.leftMenuSubLi {
+    margin: 0 0 20px 0 !important;
+    }
+    .sliderMenu p {
+
+    font-size: 22px !important;
+    text-shadow: none !important;
+    line-height: 26px !important;
+
+}
+
+.sliderMenu li {
+    width: 190px !important;
+    height: 82px !important;
+    margin: 1% 12% !important;
+    width: 180px !important;
+}
+.ulSliderMenu{
+    width: 80% !important;
+    margin: auto !important;
+}
+.menuBlock {
+
+    min-height: 140px !important;
+
+}
+.leftMenuLi {
+    margin-bottom: 20px !important;
+}
+    .inputSearch{
+        font-size: 20px !important;
+    }
+    .sliderMenu a {
+    width: 225px !important;
+    height: 100% !important;
+    display: inline-block;
+    width: 100% !important;
+}
+.sliderRightMenuWrap {
+
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+
+}
+.contentLeftText li {
+    list-style: disc !important;
+    margin-bottom: 15px !important;
+    margin-top: 15px !important;
+}
+.leftMenuSub {
+  margin-left: 49px !important;
+  margin-top: 25px !important;
+}
+.sliderMenu ul {
+    max-width: 100% !important;
+    margin: auto !important;
+}
+.headerMiniLogo {
+     float: none;
+     display: inline-block !important;
+}
+.sliderMenu img {
+    border: none !important;
+    width: 100%  !important;
+}
+
+.headerPhoneItem sup {
+    font-size: 18px !important;
+    vertical-align: baseline !important;
+}
+.headerMiniLogo,.headerIco{
+    display: none !important;
+}
+.headerContent{
+    max-width: 60% !important;
+    min-height: 155px !important;
+
+}
+.headerPhoneHr {
+    background: none  !important;
+}
+
+.sub {
+    margin-bottom: 25px !important;
+}
+.inputSearch {
+    width: 278px !important;
+    height: 30px !important;
+}
+.menuSearch {
+    float: right !important;
+    width: 286px !important;
+    height: 126px !important;
+}
+.inputSearch {
+    font-size: 19px !important;
+}
+.inputSearchSubm {
+    top: 8px !important;
+    width: 27px !important;
+    height: 27px !important;
+    }
+    .feedForm {
+    margin: auto;
+}
+.feedFormContent {
+    width: 100%;
+    }
+    .inputStyle {
+    width: 200px !important;
+}
+.feedTextArea {
+    float: none !important;
+    width: 360px !important;
+    }
+    .inputTextArea {
+       float: none !important;
+}
+.feedCapchBlock {
+    margin: 10px 0 20px 25px;
+    width: 432px;
+}
+.contentRight{
+    width: 100%;
+    display: block;
+}
+.menuHr {
+    background: none !important;
+}
+.wrapper_items_top{
+    display: inline-block !important;
+}
+.contentLeftText table {
+
+    width: 423px !important;
+    }
+    #footer{
+    background-image: none !important;
+    background-color: #868282 !important;
+    min-height: 150px !important;
+    position: static !important;
+}
+.footerContent{
+   min-height: 150px !important;
+   padding-top: 20px !important;
+}
+.footerContentText {
+    float: none !important;
+    width: 100% !important;
+    margin: 10px !important;
+}
+.footerMenu li{
+    margin:10px !important;
+}
+.footerContentText p{
+    font-size: 16px !important;
+     color: #fff !important;
+     line-height: 20px !important;
+     margin: 5px !important;
+}
+.footerMenu li a {
+
+    font-size: 18px !important;
+    color: #fff !important;
+}
+}
+/*RESPONSIVE 768PX MOBILE ENDS*/
+@media screen and (max-width: 700px){
+.sliderMenu li {
+    width: 190px !important;
+    height: 82px !important;
+    margin: 1% 10% !important;
+    width: 180px !important;
+}
+.sliderContentPage {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+}
+@media  screen and (max-width: 735px){
+.wrapper_items_top{
+    display: block !important;
+}
+}
+/*RESPONSIVE 1735PX MOBILE ENDS*/
+
+@media screen and (max-width: 620px){
+    .sliderContentPage {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.sliderMenu li {
+    width: 190px !important;
+    height: 82px !important;
+    margin: 1% 7% !important;
+    width: 180px !important;
+}
+.sliderRightMenuWrap {
+     top: 0px !important;
+}
+        .headerPhoneBlock p{
+      min-width: 50% !important;
+        }
+.headerContent {
+    max-width: 90% !important;
+    min-height: 114px !important;
+}
+.headerPhoneBlock p,.headerPhoneItem sup{
+    font-size: 14px !important;
+    margin: 5px 0px !important;
+}
+.sliderMenu ul {
+    max-width: 100% !important;
+    }
+    .sliderMenu li {
+    width: 100% !important;
+    float: none !important;
+}
+.sliderMenu p {
+    font-size: 18px !important;
+    text-shadow: none !important;
+    line-height: 24px !important;
+    }
+    .logo img {
+        max-width: 372px !important;
+        margin-top: 9px !important;
+}
+.menuA {
+    font-size: 17px !important;
+    }
+    #footer{
+    background-image: none !important;
+    background-color: #868282 !important;
+    height: 300px !important;
+    position: static !important;
+}
+.footerContent{
+   height: 300px !important;
+   padding-top: 20px !important;
+}
+.footerContentText {
+    float: none !important;
+    width: 280px !important;
+    margin: 10px !important;
+}
+.footerMenu li{
+    margin:10px !important;
+}
+.footerContentText p{
+    font-size: 16px !important;
+     color: #fff !important;
+     line-height: 20px !important;
+     margin: 5px !important;
+}
+.footerMenu li a {
+
+    font-size: 18px !important;
+    color: #fff !important;
+}
+.leftMenuA {
+    width: 100% !important;
+    font-size: 21px !important;
+    }
+.leftMenuSubA {
+    font-size: 20px !important;
+}
+.leftMenu img {
+    width: 33px !important;
+    }
+    .sliderMenu img {
+
+    display: none !important;
+}
+.sliderMenu li {
+
+padding-top: 0px !important;
+height: 40px !important;
+margin: 0px !important;
+border-radius: 0px !important;
+}
+    .alyuminievyj-metalloprokat, .medesoderzhawie-metally,.nerzhaveyuwij-metalloprokat,.upakovochnye-materialy,.klej,.krovelnye-materialy {
+    background:  none !important;
+    border-bottom: 1px solid #5f5e5e  !important;
+}
+.sliderMenu p {
+    padding: 7px 4px 4px 4px !important;
+}
+.sliderMenu{
+    margin: 4px 0 0px 0;
+}
+
+
+.ulSliderMenu li .krovelnye-materialy {
+    border-bottom: none !important;
+}
+.contentRight {
+    width: 45% !important;
+    }
+}
+
+
+
+    @media  screen and (max-width: 480px){
+
+
+        .sliderContentPage {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+  .sliderRightMenuWrap {
+     top: 0px !important;
+}
+        .headerPhoneBlock p{
+      min-width: 50% !important;
+        }
+.headerContent {
+    max-width: 90% !important;
+    min-height: 114px !important;
+}
+.headerPhoneBlock p,.headerPhoneItem sup{
+    font-size: 14px !important;
+    margin: 5px 0px !important;
+}
+.sliderMenu ul {
+    max-width: 100% !important;
+    }
+    .sliderMenu li {
+    width: 100% !important;
+    float: none !important;
+}
+.sliderMenu p {
+    font-size: 18px !important;
+    text-shadow: none !important;
+    line-height: 24px !important;
+    }
+    .logo img {
+        max-width: 372px !important;
+        margin-top: 9px !important;
+}
+.menuA {
+    font-size: 13px !important;
+    margin-top: 7px;
+    }
+    #footer{
+    background-image: none !important;
+    background-color: #868282 !important;
+    height: 300px !important;
+    position: static !important;
+}
+.footerContent{
+   height: 300px !important;
+   padding-top: 20px !important;
+}
+.footerContentText {
+    float: none !important;
+    width: 280px !important;
+    margin: 10px !important;
+}
+.footerMenu li{
+    margin:10px !important;
+}
+.footerContentText p{
+    font-size: 16px !important;
+     color: #fff !important;
+     line-height: 20px !important;
+     margin: 5px !important;
+}
+.footerMenu li a {
+
+    font-size: 18px !important;
+    color: #fff !important;
+}
+.leftMenuA {
+    width: 100% !important;
+    font-size: 19px !important;
+    }
+.leftMenuSubA {
+    font-size: 17px !important;
+}
+.leftMenu img {
+    width: 35px !important;
+    }
+    .sliderMenu img {
+
+    display: none !important;
+}
+.sliderMenu li {
+
+padding-top: 0px !important;
+height: 40px !important;
+margin: 0px !important;
+border-radius: 0px !important;
+}
+    .alyuminievyj-metalloprokat, .medesoderzhawie-metally,.nerzhaveyuwij-metalloprokat,.upakovochnye-materialy,.klej,.krovelnye-materialy {
+    background:  none !important;
+    border-bottom: 1px solid #5f5e5e  !important;
+}
+.sliderMenu p {
+    padding: 7px 4px 4px 4px !important;
+}
+.sliderMenu{
+    margin: 4px 0 0px 0;
+}
+
+
+.ulSliderMenu li .krovelnye-materialy {
+    border-bottom: none !important;
+}
+.contentRight {
+    width: 64% !important;
+    }
+    .feedForm {
+    width: 230px !important;
+}
+.feedFormContent {
+    width: 230px !important;
+    }
+    .inputStyle {
+    width: 230px !important;
+}
+.feedTextArea {
+    float: none !important;
+    width: 160px !important;
+    }
+    .inputTextArea {
+       float: none !important;
+        margin: 5px 0 8px 10px !important;
+}
+.feedCapchBlock {
+    margin: 10px 0 20px 25px;
+    width: 232px !important;
+}
+
+.feedFormContent {
+    width: 230px !important;
+    }
+.feedCapchBlock{
+    width: 190px !important;
+}
+ .inputStyle {
+    width: 90px !important;
+}
+.feedTextArea {
+    float: none !important;
+    width: 195px !important;
+    margin-left: 11px !important;
+}
+.contentLeftText ul {
+    padding-left: 20px !important;
+    }
+    .feedFormTable{
+        margin: 28px 0 0 10px !important;
+    }
+}
+/*RESPONSIVE 480PX MOBILE ENDS*/
+@media screen and (max-width: 400px){
+.contentLeftText table {
+    width: 323px !important;
+    font-size: 12px
+}
+.inputSearchSubm {
+    top: 8px !important;
+    width: 21px !important;
+    height: 21px !important;
+}
+
+}
+@media  screen and (max-width: 320px) {
+
+.sliderContentPage {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.sliderMenu ul li {
+    width: 100% !important;
+    display: block !important;
+    float: none !important;
+}
+    .sub {
+    margin-bottom: 25px !important;
+}
+    .sliderMenu ul {
+    max-width: 320px !important;
+    margin: auto !important;
+}
+.headerContentWrap{
+    max-width: 320px;
+}
+.headerPhoneHr {
+    background: none !important
+}
+.logo {
+    max-width: 320px !important;
+}
+.logo img {
+    max-width: 255px !important;
+    margin-top: 7px !important;
+}
+.headerContent {
+    max-width: 100% !important;
+}
+.headerPhoneBlock p {
+    min-width: 100% !important;
+    text-align: center !important;
+    margin: 0px 0px 5px 0px !important;
+    min-width: 50% !important;
+}
+.headerPhoneBlock{
+     padding-left: 0px !important;
+         margin-top: 6px !important;
+}
+.logo {
+    text-align: center !important;
+}
+   .leftMenuA {
+    width: 100% !important;
+    font-size: 20px !important;
+    margin-left: 37px !important;
+    color: #fff !important;
+    text-shadow: none !important;
+    text-align: right !important;
+    margin-left: 25px !important;
+}
+.leftMenu {
+    width: 100% !important;
+    font-size: 20px !important;
+}
+.sliderMenu ul {
+    width: 100% !important;
+}
+
+ .inputSearch {
+    max-width: 250px !important;
+    max-height: 35px !important;
+}
+.menuBlock {
+    height: 160px !important;
+    height: 180px !important;
+}
+.menuSearch {
+    width: 250px !important;
+    height: 130px !important;
+}
+.leftMenu img {
+
+    width: 35px !important;
+}
+.leftMenuA {
+     font-size: 16px !important;
+    }
+.brCramp {
+    font-size: 15px;
+}
+.pageKupit {
+    font-size: 17px !important;
+    line-height: 26px !important;
+    text-align: center !important;
+    padding: 5px !important;
+}
+.leftMenuSubA{
+    margin-left: 20px !important;
+    font-size: 16px !important;
+}
+.menuA {
+    font-size: 13px !important;
+}
+.menuHr{
+    background-image: none !important;
+}
+.headerContent{
+    width: 100% !important;
+    min-height: 100px !important;
+}
+.sliderMenu li {
+    width: 225px !important;
+    height: 82px !important;
+    margin: auto !important;
+    margin: 10px 10px 10px 5px !important;
+}
+.leftMenuSub {
+    margin-left: 30px !important;
+    margin-top: 25px !important;
+}
+
+.contentRight {
+    width: 100% !important;
+
+}
+#footer{
+    background-image: none !important;
+    background-color: #868282 !important;
+    height: 300px !important;
+    position: static !important;
+}
+.footerContent{
+   height: 300px !important;
+   padding-top: 20px !important;
+}
+.footerContentText {
+    float: none !important;
+    width: 280px !important;
+    margin: 10px !important;
+}
+.footerMenu li{
+    margin:10px !important;
+}
+.footerContentText p{
+    font-size: 16px !important;
+     color: #fff !important;
+     line-height: 20px !important;
+     margin: 5px !important;
+}
+.footerMenu li a {
+
+    font-size: 18px !important;
+    color: #fff !important;
+}
+.menuBlock{
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+.menuLi {
+}
+.menuSearch {
+    float: none !important;
+}
+.content{
+    margin: 55px auto 35px !important;
+}
+.contentLeftText table {
+    width: 251px !important;
+}
+.contentRightInfoBlockWrap {
+   margin-bottom: 30px !important;
+    }
+
+.inputSearch {
+    width: 178px !important;
+    height: 30px !important;
+}
+.menuSearch {
+    float: right !important;
+    width: 186px !important;
+    height: 126px !important;
+}
+.inputSearch {
+    font-size: 18px !important;
+}
+.inputSearchSubm {
+    top: 8px !important;
+    width: 23px !important;
+    height: 19px !important;
+    }
+    .feedForm {
+    width: 230px !important;
+}
+.feedFormContent {
+    width: 230px !important;
+    }
+    .inputStyle {
+    width: 230px !important;
+}
+.feedTextArea {
+    float: none !important;
+    width: 160px !important;
+    }
+    .inputTextArea {
+       float: none !important;
+        margin: 5px 0 8px 10px !important;
+}
+.feedCapchBlock {
+    margin: 10px 0 20px 25px;
+    width: 232px !important;
+}
+
+.feedFormContent {
+    width: 230px !important;
+    }
+.feedCapchBlock{
+    width: 190px !important;
+}
+ .inputStyle {
+    width: 90px !important;
+}
+.feedTextArea {
+    float: none !important;
+    width: 195px !important;
+    margin-left: 11px !important;
+}
+.contentLeftText ul {
+    padding-left: 20px !important;
+    }
+    .feedFormTable{
+        margin: 28px 0 0 10px !important;
+    }
+    .brCramp {
+        float: left !important;
+        margin-bottom: 20px !important;
+    }
+  .ulSliderMenu li a {
+    background: none !important;
+    width: 100% !important;
+}
+.sliderMenu img {
+
+    display: none !important;
+}
+.sliderMenu li {
+
+padding-top: 0px !important;
+height: 40px !important;
+margin: 0px !important;
+border-radius: 0px !important;
+}
+.alyuminievyj-metalloprokat, .medesoderzhawie-metally,.nerzhaveyuwij-metalloprokat,.upakovochnye-materialy,.klej,.krovelnye-materialy {
+    background:  none !important;
+    border-bottom: 1px solid #5f5e5e  !important;
+}
+.sliderMenu p {
+    padding: 7px 4px 4px 4px !important;
+}
+.sliderMenu{
+    margin: 4px 0 0px 0;
+}
+
+.ulSliderMenu li .krovelnye-materialy {
+    border-bottom: none !important;
+}
+.headerPhoneItem sup {
+    font-size: 14px !important;
+}
+.headerPhoneItem {
+    font-size: 14px;
+}
+.sliderRightMenuWrap {
+    width: 232px;
+    padding: 0px 0;
+    }
+}
+/*RESPONSIVE 320PX MOBILE ENDS*/
